@@ -1,6 +1,6 @@
 Hi my name is Akadir and this is my blog
 
-
+# My Posts:
 
 <ul>
   {% for post in site.posts %}
