@@ -7,7 +7,7 @@
  
 
 
-![Summer Job](/blog/images/camba.jpeg "My summer job")
+![Summer Job](/blog/images/Camba.jpeg "My summer job")
 
 # Camba 
 
