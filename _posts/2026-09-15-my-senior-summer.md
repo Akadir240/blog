@@ -21,7 +21,7 @@
 
 
 
-![Graduation](/blog/images/senior-picture.jpg "Graduation")
+![Graduation](/blog/images/class-of-2027.png "Graduation")
 
 # Almost that time
 
